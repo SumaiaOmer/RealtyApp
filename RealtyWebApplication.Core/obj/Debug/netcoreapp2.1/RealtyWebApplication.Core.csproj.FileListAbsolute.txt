@@ -1,0 +1,9 @@
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.Core\bin\Debug\netcoreapp2.1\RealtyWebApplication.Core.deps.json
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.Core\bin\Debug\netcoreapp2.1\RealtyWebApplication.Core.dll
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.Core\bin\Debug\netcoreapp2.1\RealtyWebApplication.Core.pdb
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.Core\obj\Debug\netcoreapp2.1\RealtyWebApplication.Core.csprojAssemblyReference.cache
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.Core\obj\Debug\netcoreapp2.1\RealtyWebApplication.Core.csproj.CoreCompileInputs.cache
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.Core\obj\Debug\netcoreapp2.1\RealtyWebApplication.Core.AssemblyInfoInputs.cache
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.Core\obj\Debug\netcoreapp2.1\RealtyWebApplication.Core.AssemblyInfo.cs
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.Core\obj\Debug\netcoreapp2.1\RealtyWebApplication.Core.dll
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.Core\obj\Debug\netcoreapp2.1\RealtyWebApplication.Core.pdb

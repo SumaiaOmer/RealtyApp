@@ -1,0 +1,14 @@
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.EF\bin\Debug\netcoreapp2.1\RealtyWebApplication.EF.deps.json
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.EF\bin\Debug\netcoreapp2.1\RealtyWebApplication.EF.runtimeconfig.json
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.EF\bin\Debug\netcoreapp2.1\RealtyWebApplication.EF.runtimeconfig.dev.json
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.EF\bin\Debug\netcoreapp2.1\RealtyWebApplication.EF.dll
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.EF\bin\Debug\netcoreapp2.1\RealtyWebApplication.EF.pdb
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.EF\bin\Debug\netcoreapp2.1\RealtyWebApplication.Core.dll
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.EF\bin\Debug\netcoreapp2.1\RealtyWebApplication.Core.pdb
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.EF\obj\Debug\netcoreapp2.1\RealtyWebApplication.EF.csprojAssemblyReference.cache
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.EF\obj\Debug\netcoreapp2.1\RealtyWebApplication.EF.csproj.CoreCompileInputs.cache
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.EF\obj\Debug\netcoreapp2.1\RealtyWebApplication.EF.AssemblyInfoInputs.cache
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.EF\obj\Debug\netcoreapp2.1\RealtyWebApplication.EF.AssemblyInfo.cs
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.EF\obj\Debug\netcoreapp2.1\RealtyWebApplication.EF.csproj.CopyComplete
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.EF\obj\Debug\netcoreapp2.1\RealtyWebApplication.EF.dll
+C:\Users\sumaia\source\repos\RealtyWebApplication\RealtyWebApplication.EF\obj\Debug\netcoreapp2.1\RealtyWebApplication.EF.pdb
